@@ -24,6 +24,7 @@ This is a set of API for a social network that uses a MongoDB database so that t
 
 ## Walkthrough Videos
 [User/Friends](https://drive.google.com/file/d/1A1UjYXhSNdonegOSjcsUcMO-tbCs0yEo/view)
+
 [Thoughts/Reaction](https://drive.google.com/file/d/1C1ifXto3Rrgfr3uj0MYlQNQ6QB5TsGPW/view)  
  
 
